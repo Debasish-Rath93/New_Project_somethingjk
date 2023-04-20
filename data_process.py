@@ -12,3 +12,7 @@ def mltply(a,b):
     c= a*b
     return c
 print("\n I HAVE DONE MULTPLICATION TOO:  ", mltply(a,b))
+def expntl(a,b):
+    c= a**b
+    return c
+print("\n I HAVE DONE EXPONENTIAL NOW TOO:  ", expntl(a,b))
